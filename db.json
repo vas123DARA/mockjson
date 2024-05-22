@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "title": "FreeRice Challenge",
+        "description": "sdfsdf sdf sd fa ds",
+        "image": "C:\\newsletter\\Ongoing\\Eyes-closed-and-Waterdrop-Backgrounds.jpg",
+        "link": "www.freerice.com",
+        "linkText": "Free Rice "
+    },
+    {
+        "id": 5,
+        "title": "FreeRice Challenge",
+        "description": "sdfsdf sdf sd fa ds",
+        "image": "C:\\newsletter\\Ongoing\\Eyes-closed-and-Waterdrop-Backgrounds.jpg",
+        "link": "www.freerice.com",
+        "linkText": "Free Rice "
+    },
+    {
+        "id": 7,
+        "title": "Event list",
+        "description": "Shows the winner list",
+        "image": "C:\\newsletter\\Ongoing\\ongoingcontests.jpg",
+        "link": "www.example.com",
+        "linkText": "Click Here"
+    }
+]
