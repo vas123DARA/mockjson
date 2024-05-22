@@ -1,4 +1,5 @@
-[
+{
+    "posts":[
     {
         "id": 4,
         "title": "FreeRice Challenge",
@@ -24,3 +25,4 @@
         "linkText": "Click Here"
     }
 ]
+}
